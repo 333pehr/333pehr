@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack Web and Mobile App Developer</h3>
 
 # 💫 About Me:
-👯 I’m looking to collaborate on flutter projects<br>🌱 I’m currently learning Flutter<br>💬 Ask me about JavaScript, TypeScript, C# and Dart
+👯 I’m looking to collaborate on Flutter and Angular projects<br>🌱 I’m currently learning Flutter and TypeScript<br>💬 Ask me about JavaScript, TypeScript, C# and Dart
 
 
 ## 🌐 Socials:
